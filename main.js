@@ -1,5 +1,5 @@
 const APP_ID = "3d167d51b402407c9f36367fdd2b5a94"
-const TOKEN = "007eJxTYNirGZjyffL+6oJtz290KjrcU+bcoWCnLsfz3rdLi39tx2EFBuMUQzPzFFPDJBMDIxMD82TLNGMzYzPztJQUoyTTREuTqCWnUxoCGRkiVyowMEIhiM/DEJaZkprvnJiTk5mXzsAAAPOnIO0="
+const TOKEN = "007eJxTYNiieTp/Y1Edy52+c2albmJnby1n6/RW3XFvvr5d0JuJLPEKDMYphmbmKaaGSSYGRiYG5smWacZmxmbmaSkpRkmmiZYmvqtvpjQEMjJUmOswMEIhiM/DEJaZkprvnJiTk5mXzsAAABPjITQ="
 const CHANNEL = "VideoCalling"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
